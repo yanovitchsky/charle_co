@@ -1,7 +1,4 @@
-# Getaround EU Frontend Challenge (previously Drivy)
-
-Looking for a job? Check out our [open positions](https://uk.getaround.com.com/jobs).
-You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
+# Charles.co Frontend Challenge
 
 ## Guidelines
 
@@ -28,10 +25,9 @@ This test is framework agnostic, feel free to stick to vanilla HTML/JS/CSS or go
 
 ## Sending Your Results
 
-Once you are done, please send your results to someone from Getaround.
+Once you are done, please send your results to someone from Charles.co.
 
 - If you are already in discussion with us, send it directly to the person you are talking to.
-- If not, use the application form [on every job listing](https://en.drivy.com/jobs).
 
 You can send your Github project link or zip your directory and send it via email.
 If you do not use Github, don't forget to attach your `.git` folder.
@@ -42,7 +38,7 @@ Good luck!
 
 ## Challenge
 
-We are building a car-sharing platform. Let's call it Getaround :)
+We are building a car-sharing platform.
 Car owners can already list their car on our platform and backend developers have provided an API for us to query.
 
 Our plan is now to let any person (let's call them "driver") see cars they could rent.
