@@ -1,8 +1,8 @@
 {
-  "name": "drivy-frontend-test",
+  "name": "charles-co-frontend-test",
   "version": "0.0.1",
-  "description": "Getaround Frontend Challenge",
-  "repository": "https://github.com/drivy/jobs",
+  "description": "Charles.co Frontend Challenge",
+  "repository": "https://github.com/babgyy/jobs",
   "license": "MIT",
   "private": true,
   "scripts": {
