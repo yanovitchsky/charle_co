@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'zeitwerk', '~> 2.4.0'
 gem 'chronic'
+gem "interactor", "~> 3.0"
 
 group :development, :test do
   gem 'rspec'
